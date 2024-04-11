@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eRKkWfYJ8TrdAYkxvdAQLFleXOw2hZPlnbPqz2diOgJOVM6u3dyRMpwUNKq8vvpYbFv8gYh3bFj0TLPZrc4YDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\FileIO\\FileIO\\FileIO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\csvhelper\\31.0.3\\csvhelper.31.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\superconvert\\1.0.4.9\\superconvert.1.0.4.9.nupkg.sha512"
+  ],
+  "logs": []
+}

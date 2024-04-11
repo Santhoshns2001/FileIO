@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FileIO</id>
+    <version>1.0.0</version>
+    <authors>FileIO</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="CsvHelper" version="31.0.3" exclude="Build,Analyzers" />
+        <dependency id="SuperConvert" version="1.0.4.9" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Admin\source\repos\FileIO\FileIO\bin\Debug\net8.0\FileIO.runtimeconfig.json" target="lib\net8.0\FileIO.runtimeconfig.json" />
+    <file src="C:\Users\Admin\source\repos\FileIO\FileIO\bin\Debug\net8.0\FileIO.dll" target="lib\net8.0\FileIO.dll" />
+  </files>
+</package>

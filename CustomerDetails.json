@@ -1,0 +1,21 @@
+{
+  "customer_Id": 1,
+  "Cusomer_Name": "prashanth",
+  "employees": [
+    {
+      "first_name": "manju",
+      "last_name": "reddy",
+      "phone": "9632587412"
+    },
+    {
+      "first_name": "prashanth",
+      "last_name": "reddy",
+      "phone": "7418529635"
+    },
+    {
+      "first_name": "purushotham",
+      "last_name": "c",
+      "phone": "7895463150"
+    }
+  ]
+}
